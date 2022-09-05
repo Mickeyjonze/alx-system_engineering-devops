@@ -1,1 +1,1 @@
-Display lines containing the pattern and 3 lines after them in the file
+Display all the lines in the file that do not contain the pattern
