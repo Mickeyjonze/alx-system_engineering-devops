@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apmv
+grep -l "A[a-z]" /etc/ssh/sshd_config
