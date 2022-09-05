@@ -1,1 +1,1 @@
-a script that duplicates the last line of the file
+Display all lines of the file
