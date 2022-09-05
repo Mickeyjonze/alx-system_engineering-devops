@@ -1,1 +1,1 @@
-isplay the number of lines that contain the pattern
+Display lines containing the pattern and 3 lines after them in the file
