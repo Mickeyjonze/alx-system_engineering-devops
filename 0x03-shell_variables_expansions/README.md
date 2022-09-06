@@ -1,1 +1,1 @@
-a script that counts the number of directories in
+a script that lists environment variables.
